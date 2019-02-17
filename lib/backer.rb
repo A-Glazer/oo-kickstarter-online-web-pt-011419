@@ -13,8 +13,6 @@ class Backer
 
      project.add_backer(self)
 
-    project.add_backer(self)
-
 
   end
 
